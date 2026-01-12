@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi, I’m Anupam, a Computer Science fresher currently pursuing Masters in CS at IIT Mandi. I have a strong interest in full-stack development and applied AI, and I enjoy building real-world products using technologies like Python, React, and LLM frameworks. I’m particularly interested in developing AI-powered workflows and scalable systems that solve practical problems.
+<br>Hi, I’m Anupam, a Computer Science fresher currently pursuing Masters in CS at IIT Mandi. I work on AI-powered applications and workflows built on the MERN stack, where large language models are integrated with APIs, databases, and backend services to deliver scalable, production-ready solutions.
 
 
 ## 🌐 Socials:
