@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi, I’m Anupam, a Computer Science fresher currently pursuing Masters in CS at IIT Mandi. I work on AI-powered applications and workflows built on the MERN stack, where large language models are integrated with APIs, databases, and backend services to deliver scalable, production-ready solutions.
+<br>Hi, I’m Anupam, a Computer Science fresher currently pursuing Masters in CS at IIT Mandi. I work on AI-powered applications and workflows built on the MERN stack, where large language models are integrated with APIs(Gen AI and Agentic AI systems), databases, and backend services to deliver scalable, production-ready solutions.
 
 
 ## 🌐 Socials:
