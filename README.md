@@ -18,7 +18,7 @@
 <!-- ===================== ABOUT ME ===================== -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
+<img align="right" width="200" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 
 - 🎓 Pursuing my **Master's in Computer Science** at **IIT Mandi**
 - 🤖 I build **AI-powered applications** on the **MERN stack** — wiring LLMs into APIs, databases & backend services
