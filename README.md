@@ -1,5 +1,3 @@
-<!-- ===================== HEADER BANNER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20there%2C%20I'm%20Anupam%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20MERN%20Stack%20%7C%20Gen%20AI%20%26%20Agentic%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <div align="center">
