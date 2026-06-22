@@ -127,16 +127,7 @@
 
 ---
 
-<!-- ===================== SNAKE ANIMATION ===================== -->
-## 🐍 Contribution Snake
 
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/garganupam/garganupam/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 <!-- ===================== QUOTE ===================== -->
 <div align="center">
