@@ -25,9 +25,7 @@
 - 🧠 Deep into **Generative AI** & **Agentic AI** systems
 - ⚡ Obsessed with **scalable, production-ready** solutions
 - 🌱 Currently exploring **agentic workflows & RAG pipelines**
-- 💬 Ask me about **React · Node.js · Python · LLMs · full-stack AI apps**
 - 📫 Reach me at **garganupam10@gmail.com**
-- ⚡ Fun fact: *I think in components and dream in APIs* 😄
 
 <br clear="right"/>
 
