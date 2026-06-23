@@ -2,7 +2,7 @@
 <!-- ===================== TYPING ANIMATION ===================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=AI-Powered+Application+Developer+🤖;MERN+Stack+Engineer+💻;Building+Gen+AI+%26+Agentic+Systems+⚡;CS+Master's+%40+IIT+Mandi+🎓;Turning+LLMs+into+Products+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=AI-Powered+Application+Developer+🤖;Building+Gen+AI+%26+Agentic+Systems+⚡;CS+Master's+%40+IIT+Mandi+🎓;Turning+LLMs+into+Products+🚀)](https://git.io/typing-svg)
 
 <!-- Profile Views + Followers -->
 <img src="https://komarev.com/ghpvc/?username=garganupam&label=Profile%20Views&color=58A6FF&style=flat-square" alt="profile views"/>
