@@ -23,7 +23,6 @@
 - 🎓 Pursuing my **Master's in Computer Science** at **IIT Mandi**
 - 🤖 I build **AI-powered applications** on the **MERN stack** — wiring LLMs into APIs, databases & backend services
 - 🧠 Deep into **Generative AI** & **Agentic AI** systems
-- ⚡ Obsessed with **scalable, production-ready** solutions
 - 🌱 Currently exploring **agentic workflows & RAG pipelines**
 - 📫 Reach me at **garganupam10@gmail.com**
 
