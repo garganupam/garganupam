@@ -21,7 +21,7 @@
 <img align="right" width="200" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 
 - 🎓 Pursuing my **Master's in Computer Science** at **IIT Mandi**
-- 🤖 I build **AI-powered applications** on the **MERN stack** — wiring LLMs into APIs, databases & backend services
+- 🤖 I build **AI-powered applications**  wiring LLMs into APIs, databases & backend services
 - 🧠 **Machine Learning** || **Deep Learning** || **Generative AI** || **Agentic AI** 
 - 🌱 Currently exploring **agentic workflows & RAG pipelines**
 - 📫 Reach me at **garganupam10@gmail.com**
