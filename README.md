@@ -23,7 +23,7 @@
 - 🎓 Pursuing my **Master's in Computer Science** at **IIT Mandi**
 - 🤖 I build **AI-powered applications**  wiring LLMs into APIs, databases & backend services
 - 🧠 **Machine Learning** || **Deep Learning** || **Generative AI** || **Agentic AI** 
-- 🌱 Currently exploring **agentic workflows & RAG pipelines & RAG Evaluations**
+- 🌱 Currently exploring **agentic workflows & RAG pipelines & RAG Evaluations & LLM Evaluations**
 - 📫 Reach me at **garganupam10@gmail.com**
 
 <br clear="right"/>
